@@ -15,7 +15,7 @@ body{
 
 }
 main{
-    height: 102vh;
+    height: 105vh;
     position: relative;
 }
 section#telefone{
@@ -35,9 +35,8 @@ section#telefone{
     width: 267px;
 }
 #redes-sociais{
-    position: absolute;
-    left: 1280px;
-    top: 50px;
+    text-align: right;
+    padding-top: 50px;
 }
 #redes-sociais img{
     width: 50px;
