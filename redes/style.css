@@ -12,19 +12,19 @@ body{
     background: url('./imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
-
+    height: 100vh;
 }
 main{
-    height: 105vh;
     position: relative;
+    height: 96vh;
 }
 section#telefone{
     background: url('./imagens/frame-iphone.png') no-repeat;
-    top: 50%;
+    top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
-    height: 627px;
+    height: 625px;
     width: 311px;
 }
 #tela{
