@@ -1,0 +1,16 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:url(imagens/f.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    max-height: 100vh;
+    background-size: 800px;
+}
+header{
+}
+main{
+}
